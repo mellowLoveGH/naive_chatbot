@@ -16,3 +16,15 @@ Do not forget to install realtive packages
 
 !pip install pyowm 
 
+
+files:
+
+geoinfo.py, using GOOGLE geo package to obtain the geographical information such as weather, temperature and so on.
+
+test_report.py & unit_test.py, using unit test to do unit testing.
+
+translate_01.ipynb, using Bing / google translate api to do online translation, & wikipedia api to do online definition search.
+
+POS_tagging_NER_sentiment_analysis.ipynb, using the Standford package & NLTK to do POS-tagging (part of speech), name entity recognition & sentiment analysis.
+
+posTag_spellCheck.py, it is the python code from 'POS_tagging_NER_sentiment_analysis.ipynb', with spelling checking functions.
